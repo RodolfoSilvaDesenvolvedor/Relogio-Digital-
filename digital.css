@@ -76,6 +76,6 @@ body{
     .border-text {
       width: 100%;
       flex-direction: column;
-      
+      text-align: left;  
  }
 }
