@@ -65,3 +65,17 @@ body{
     transform: translateY(0%);
   }
 }
+
+@media screen and (max-width: 768px){
+  .clock {
+    width: 100%;
+    flex-direction: column;
+  }
+}
+ @media screen and (max-width: 368px){
+    .border-text {
+      width: 100%;
+      flex-direction: column;
+      
+ }
+}
